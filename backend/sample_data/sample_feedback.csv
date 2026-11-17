@@ -1,0 +1,136 @@
+id,customer_id,rating,comment,category,created_at
+1,32,4,Prompt dispatch and delivery driver called ahead as requested.,Delivery,2026-05-21 06:00:00
+2,40,5,Great value for money compared to corporate competitors. Will definitely order again.,Pricing,2026-10-19 05:00:00
+3,65,1,Mouse scroll wheel started squeaking after 2 weeks of normal usage.,Product Quality,2026-08-28 09:00:00
+4,9,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-08-30 07:00:00
+5,59,1,Package marked as delivered but didn't show up until 48 hours later. Frustrating experience.,Delivery,2026-06-15 03:00:00
+6,44,3,"Desk assembly instructions were somewhat confusing, though the desk itself is sturdy.",Product Quality,2026-05-23 09:00:00
+7,44,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-08-15 08:00:00
+8,22,3,Search filters could be improved. Took a while to locate specific cable length.,Website Usability,2026-11-10 08:00:00
+9,29,5,Great value for money compared to corporate competitors. Will definitely order again.,Pricing,2026-09-21 00:00:00
+10,3,1,Mouse scroll wheel started squeaking after 2 weeks of normal usage.,Product Quality,2026-07-08 09:00:00
+11,16,3,"Prices are acceptable, but shipping fee for regional zones feels a bit steep.",Pricing,2026-06-01 11:00:00
+12,49,1,Courier left the expensive electronics package outside in the rain without ringing bell.,Delivery,2026-09-10 03:00:00
+13,80,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-06-15 11:00:00
+14,85,4,Very smooth checkout process and clear order tracking updates.,Website Usability,2026-05-31 11:00:00
+15,7,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-10-16 05:00:00
+16,57,3,Search filters could be improved. Took a while to locate specific cable length.,Website Usability,2026-10-14 03:00:00
+17,33,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-05-19 09:00:00
+18,27,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-05-23 01:00:00
+19,2,4,Good volume discount on office stationery reams for our quarterly restock.,Pricing,2026-07-30 01:00:00
+20,13,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-07-04 07:00:00
+21,80,2,Recent price increase of 15% on subscriptions without prior notification is disappointing.,Pricing,2026-05-19 09:00:00
+22,54,4,Very smooth checkout process and clear order tracking updates.,Website Usability,2026-07-07 00:00:00
+23,80,4,Very smooth checkout process and clear order tracking updates.,Website Usability,2026-09-03 10:00:00
+24,101,4,Very smooth checkout process and clear order tracking updates.,Website Usability,2026-07-10 08:00:00
+25,78,5,Noise cancelling headphones block out the entire open-plan office chatter. Impressive.,Product Quality,2026-09-08 03:00:00
+26,125,5,Noise cancelling headphones block out the entire open-plan office chatter. Impressive.,Product Quality,2026-08-15 00:00:00
+27,53,4,Good volume discount on office stationery reams for our quarterly restock.,Pricing,2026-10-04 11:00:00
+28,71,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-09-22 00:00:00
+29,120,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-08-22 08:00:00
+30,1,5,Outstanding build quality! The ergonomic chair relieved my back pain within 3 days.,Product Quality,2026-05-27 10:00:00
+31,117,4,Very smooth checkout process and clear order tracking updates.,Website Usability,2026-06-21 01:00:00
+32,64,5,Great value for money compared to corporate competitors. Will definitely order again.,Pricing,2026-10-22 03:00:00
+33,10,4,Very smooth checkout process and clear order tracking updates.,Website Usability,2026-09-10 01:00:00
+34,30,3,"Support was polite, but had to transfer me between two departments before resolving.",Customer Support,2026-08-31 07:00:00
+35,60,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-10-20 09:00:00
+36,112,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-09-01 06:00:00
+37,103,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-08-26 05:00:00
+38,95,4,Very smooth checkout process and clear order tracking updates.,Website Usability,2026-10-21 11:00:00
+39,2,5,Great value for money compared to corporate competitors. Will definitely order again.,Pricing,2026-05-29 01:00:00
+40,22,3,"Delivery was on time, but outer cardboard box was slightly crushed. Product inside was safe.",Delivery,2026-08-15 04:00:00
+41,123,2,Recent price increase of 15% on subscriptions without prior notification is disappointing.,Pricing,2026-09-07 00:00:00
+42,12,3,"Prices are acceptable, but shipping fee for regional zones feels a bit steep.",Pricing,2026-08-19 09:00:00
+43,15,3,Search filters could be improved. Took a while to locate specific cable length.,Website Usability,2026-08-04 04:00:00
+44,35,3,Search filters could be improved. Took a while to locate specific cable length.,Website Usability,2026-05-22 04:00:00
+45,103,3,"Desk assembly instructions were somewhat confusing, though the desk itself is sturdy.",Product Quality,2026-06-01 09:00:00
+46,15,5,Great value for money compared to corporate competitors. Will definitely order again.,Pricing,2026-05-20 00:00:00
+47,8,4,Monitor display colors are crisp and accurate. Stand is very solid.,Product Quality,2026-10-19 05:00:00
+48,117,1,Mouse scroll wheel started squeaking after 2 weeks of normal usage.,Product Quality,2026-07-14 02:00:00
+49,87,3,"Support was polite, but had to transfer me between two departments before resolving.",Customer Support,2026-09-29 02:00:00
+50,49,3,"Prices are acceptable, but shipping fee for regional zones feels a bit steep.",Pricing,2026-06-11 11:00:00
+51,111,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-10-12 04:00:00
+52,118,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-10-17 05:00:00
+53,57,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-10-29 07:00:00
+54,84,3,"Delivery was on time, but outer cardboard box was slightly crushed. Product inside was safe.",Delivery,2026-11-11 00:00:00
+55,112,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-07-03 00:00:00
+56,74,1,Mouse scroll wheel started squeaking after 2 weeks of normal usage.,Product Quality,2026-09-18 01:00:00
+57,112,3,"Delivery was on time, but outer cardboard box was slightly crushed. Product inside was safe.",Delivery,2026-07-05 03:00:00
+58,89,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-06-09 10:00:00
+59,56,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-09-12 04:00:00
+60,45,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-05-25 01:00:00
+61,50,5,Great value for money compared to corporate competitors. Will definitely order again.,Pricing,2026-06-25 02:00:00
+62,7,5,Outstanding build quality! The ergonomic chair relieved my back pain within 3 days.,Product Quality,2026-06-03 09:00:00
+63,65,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-07-11 09:00:00
+64,10,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-08-24 08:00:00
+65,43,5,Knowledgeable technical support assisted with docking station drivers immediately.,Customer Support,2026-11-02 03:00:00
+66,29,2,Automated bot was unhelpful and waiting for a live agent took over 35 minutes.,Customer Support,2026-06-03 05:00:00
+67,52,4,Prompt dispatch and delivery driver called ahead as requested.,Delivery,2026-10-25 04:00:00
+68,57,1,Mouse scroll wheel started squeaking after 2 weeks of normal usage.,Product Quality,2026-07-23 10:00:00
+69,110,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-07-23 06:00:00
+70,16,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-05-31 11:00:00
+71,14,3,Search filters could be improved. Took a while to locate specific cable length.,Website Usability,2026-08-01 11:00:00
+72,72,2,Automated bot was unhelpful and waiting for a live agent took over 35 minutes.,Customer Support,2026-11-14 10:00:00
+73,102,2,Recent price increase of 15% on subscriptions without prior notification is disappointing.,Pricing,2026-06-09 01:00:00
+74,39,1,Package marked as delivered but didn't show up until 48 hours later. Frustrating experience.,Delivery,2026-06-24 08:00:00
+75,84,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-07-21 06:00:00
+76,47,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-09-18 04:00:00
+77,43,2,Automated bot was unhelpful and waiting for a live agent took over 35 minutes.,Customer Support,2026-06-09 02:00:00
+78,61,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-05-30 06:00:00
+79,92,3,"Support was polite, but had to transfer me between two departments before resolving.",Customer Support,2026-10-16 10:00:00
+80,98,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-09-19 11:00:00
+81,44,3,"Prices are acceptable, but shipping fee for regional zones feels a bit steep.",Pricing,2026-06-05 07:00:00
+82,71,1,Package marked as delivered but didn't show up until 48 hours later. Frustrating experience.,Delivery,2026-08-11 00:00:00
+83,14,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-10-03 04:00:00
+84,18,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-08-02 10:00:00
+85,33,2,Recent price increase of 15% on subscriptions without prior notification is disappointing.,Pricing,2026-09-25 08:00:00
+86,16,3,Search filters could be improved. Took a while to locate specific cable length.,Website Usability,2026-09-20 04:00:00
+87,106,5,Noise cancelling headphones block out the entire open-plan office chatter. Impressive.,Product Quality,2026-08-20 10:00:00
+88,97,3,"Desk assembly instructions were somewhat confusing, though the desk itself is sturdy.",Product Quality,2026-11-03 01:00:00
+89,108,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-06-17 10:00:00
+90,99,3,"Support was polite, but had to transfer me between two departments before resolving.",Customer Support,2026-07-20 01:00:00
+91,76,1,Package marked as delivered but didn't show up until 48 hours later. Frustrating experience.,Delivery,2026-10-11 04:00:00
+92,1,1,Package marked as delivered but didn't show up until 48 hours later. Frustrating experience.,Delivery,2026-11-02 03:00:00
+93,120,3,"Desk assembly instructions were somewhat confusing, though the desk itself is sturdy.",Product Quality,2026-06-18 04:00:00
+94,119,1,Package marked as delivered but didn't show up until 48 hours later. Frustrating experience.,Delivery,2026-09-30 00:00:00
+95,75,4,Monitor display colors are crisp and accurate. Stand is very solid.,Product Quality,2026-10-13 10:00:00
+96,50,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-06-14 02:00:00
+97,113,3,"Delivery was on time, but outer cardboard box was slightly crushed. Product inside was safe.",Delivery,2026-07-08 05:00:00
+98,54,2,Recent price increase of 15% on subscriptions without prior notification is disappointing.,Pricing,2026-05-21 08:00:00
+99,36,3,Search filters could be improved. Took a while to locate specific cable length.,Website Usability,2026-08-19 07:00:00
+100,58,5,Great value for money compared to corporate competitors. Will definitely order again.,Pricing,2026-10-10 05:00:00
+101,78,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-07-06 07:00:00
+102,108,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-06-27 06:00:00
+103,92,2,Automated bot was unhelpful and waiting for a live agent took over 35 minutes.,Customer Support,2026-06-06 08:00:00
+104,26,5,Noise cancelling headphones block out the entire open-plan office chatter. Impressive.,Product Quality,2026-06-08 00:00:00
+105,38,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-08-18 01:00:00
+106,17,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-06-01 09:00:00
+107,65,2,Automated bot was unhelpful and waiting for a live agent took over 35 minutes.,Customer Support,2026-05-21 01:00:00
+108,42,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-10-16 06:00:00
+109,72,2,Delayed by 5 days without any tracking updates. Logistics partner needs urgent review.,Delivery,2026-06-18 02:00:00
+110,121,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-07-31 01:00:00
+111,96,2,Automated bot was unhelpful and waiting for a live agent took over 35 minutes.,Customer Support,2026-09-02 05:00:00
+112,104,5,Outstanding build quality! The ergonomic chair relieved my back pain within 3 days.,Product Quality,2026-07-04 10:00:00
+113,4,3,Search filters could be improved. Took a while to locate specific cable length.,Website Usability,2026-10-08 11:00:00
+114,86,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-09-24 07:00:00
+115,97,4,Monitor display colors are crisp and accurate. Stand is very solid.,Product Quality,2026-09-02 01:00:00
+116,33,5,Great value for money compared to corporate competitors. Will definitely order again.,Pricing,2026-10-30 00:00:00
+117,101,4,Good volume discount on office stationery reams for our quarterly restock.,Pricing,2026-09-23 03:00:00
+118,5,3,"Prices are acceptable, but shipping fee for regional zones feels a bit steep.",Pricing,2026-07-22 10:00:00
+119,79,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-06-24 08:00:00
+120,96,1,Courier left the expensive electronics package outside in the rain without ringing bell.,Delivery,2026-06-24 05:00:00
+121,31,1,Package marked as delivered but didn't show up until 48 hours later. Frustrating experience.,Delivery,2026-05-20 07:00:00
+122,89,2,Payment gateway timed out twice before transaction succeeded.,Website Usability,2026-11-02 05:00:00
+123,50,3,"Desk assembly instructions were somewhat confusing, though the desk itself is sturdy.",Product Quality,2026-05-23 06:00:00
+124,124,2,Automated bot was unhelpful and waiting for a live agent took over 35 minutes.,Customer Support,2026-11-01 11:00:00
+125,96,5,Knowledgeable technical support assisted with docking station drivers immediately.,Customer Support,2026-09-24 02:00:00
+126,112,3,"Support was polite, but had to transfer me between two departments before resolving.",Customer Support,2026-09-18 01:00:00
+127,91,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-06-02 06:00:00
+128,97,1,Mouse scroll wheel started squeaking after 2 weeks of normal usage.,Product Quality,2026-06-28 00:00:00
+129,78,5,Noise cancelling headphones block out the entire open-plan office chatter. Impressive.,Product Quality,2026-09-26 07:00:00
+130,58,4,Monitor display colors are crisp and accurate. Stand is very solid.,Product Quality,2026-05-24 10:00:00
+131,24,4,Monitor display colors are crisp and accurate. Stand is very solid.,Product Quality,2026-07-06 10:00:00
+132,49,5,The support agent solved our enterprise licensing query within 10 minutes. Superb service.,Customer Support,2026-07-28 07:00:00
+133,72,5,Knowledgeable technical support assisted with docking station drivers immediately.,Customer Support,2026-10-12 09:00:00
+134,75,5,Knowledgeable technical support assisted with docking station drivers immediately.,Customer Support,2026-11-13 06:00:00
+135,60,1,Refund request took over 12 business days to process despite initial policy stating 3-5 days.,Customer Support,2026-10-06 11:00:00
